@@ -1,0 +1,75 @@
+<html>
+<head>
+<title></title>
+<style>
+header{
+background-color:aqua;
+color:white;
+text-align:center;
+position:relative;
+top:10px;
+}
+#img1{
+position:relative;
+top:30px;
+left:5px;
+width:310px;
+height:310px;
+}
+#img2{
+position:absolute;
+top:90px;
+left:1000px;
+width:310px;
+height:310px;
+}
+#topic1{
+position:absolute;
+top:65px;
+left:320px;
+width:615px;
+font-size:20px;
+}
+footer{
+position:absolute;
+top:460px;
+left:20px;
+width:1000px;
+font-size:25px;
+}
+</style>
+</head>
+<body>
+<header>
+<h1><span>Images and Content</span></h1>
+</header>
+<aside id="img1">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdpSupiI7Tw289HomG-whiYwnXcB15Gb0U0A&s" width="300px" height="300px"></img>
+</aside>
+<aside id="topic1">
+<p>Flowers are important for many reasons, including:<br>
+Reproduction: Flowers are the reproductive organs of flowering plants.<br> They attract pollinators, which help plants reproduce and form the next generation. 
+<br>Food source: Flowers provide nectar and pollen for many animals, <br>including bees, beetles, birds, and bats<br>
+Biodiversity: Flowers add color, texture, and biodiversity to gardens and environments. <br>
+Genetic diversity: Pollination contributes to genetic diversity within plant populations, which is key to the adaptability and survival of species. 
+Ornamental value: Some flowers are bright colored and have strong fragrance, so they can be used for decorative purposes. 
+Medicine: Some flowers, like passionflower and milk thistle, have medicinal properties. 
+</p>
+</aside>
+<aside id="img2">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVRoLY3SSqU0HpNAP_-uwfp98RSCrxFqk5Gw&s" width="300px" height="300px"></img>
+</aside>
+<footer>
+<p><h1>Flower slogan</h1>
+Blossom Into Happiness<br>
+Blossom With Elegance<br>
+A Language Only Flowers Understand<br>
+Always Blooming For You<br>
+Elegant Floral Expressions<br>
+Floral Artistry Redefined<br>
+Give Someone A Flower Today<br>
+Love Grows Here<br>
+A Symphony of flowers</p>
+</footer>
+</body>
+</html>
